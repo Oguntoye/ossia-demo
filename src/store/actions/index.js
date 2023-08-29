@@ -1,0 +1,1 @@
+export {setLoginData} from "./generalAction";
