@@ -1,7 +1,7 @@
 {
   "name": "ossia-demo",
   "version": "0.1.0",
-  "homepage": "http://oguntoye.github.io/ossia-demo",
+  "homepage": "https://oguntoye.github.io/ossia-demo",
   "private": true,
   "dependencies": {
     "@react-pdf-viewer/core": "3.7.0",
